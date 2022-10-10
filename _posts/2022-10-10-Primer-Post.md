@@ -1,4 +1,4 @@
----P
+---
 title: Hack The Box - Lame
 published: true
 ---
