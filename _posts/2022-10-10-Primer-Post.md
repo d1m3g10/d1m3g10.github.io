@@ -1,5 +1,5 @@
 ---
-title: Hack The Box - Lame
+title: Hack The Box 
 published: true
 ---
 
